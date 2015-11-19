@@ -5,4 +5,4 @@ A stroll with bash. A presentation for CS341
 
 ### Useful Links
 
-### Useful commands
+### Script ideas
