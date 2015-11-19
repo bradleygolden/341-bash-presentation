@@ -3,4 +3,6 @@ A stroll with bash. A presentation for CS341
 
 ## Resources
 
-### Links
+### Useful Links
+
+### Useful commands
