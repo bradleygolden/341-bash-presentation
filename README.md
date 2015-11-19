@@ -2,7 +2,3 @@
 A stroll with bash. A presentation for CS341
 
 ## Resources
-
-### Useful Links
-
-### Script ideas
