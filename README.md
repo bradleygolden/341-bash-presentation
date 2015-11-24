@@ -2,3 +2,4 @@
 A stroll with bash. A presentation for CS341
 
 ## Resources
+http://www.soma-zone.com/LaunchControl/
